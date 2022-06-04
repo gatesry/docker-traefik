@@ -30,6 +30,8 @@ shared/config/*
 !shared/config/*.example
 !shared/config/bash_aliases
 
+!secrets
+!secrets/*
 !secrets_example
 !secrets_example/*
 
